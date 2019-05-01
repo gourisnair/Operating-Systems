@@ -1,3 +1,7 @@
+//Program where the parent takes inputs unitl met with a special character and squares it.
+//Child 1 returns the sum of the squares and child 2 returns its count.
+//Parent thereby calculates the average and prints all the results.
+
 #include<stdio.h>
 #include<sys/wait.h>
 #include<unistd.h>
